@@ -1,0 +1,3 @@
+---- GBIME_OpenFile Matches (2 in 2 files) ----
+GBIME.c (framework):GBINT GBIME_OpenFile(char* filePath)
+GBIME.h (framework):GBIMEAPI GBINT GBIME_OpenFile(char* filePath);
